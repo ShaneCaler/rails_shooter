@@ -1,6 +1,6 @@
 # rails_shooter
 
-In this project, I followed along with a Udemy course on Udemy game development and created the 
+In this project, I followed along with a Udemy course on Unity3D game development and created the 
 prototype for an on-the-rails space shooter.
 
 
